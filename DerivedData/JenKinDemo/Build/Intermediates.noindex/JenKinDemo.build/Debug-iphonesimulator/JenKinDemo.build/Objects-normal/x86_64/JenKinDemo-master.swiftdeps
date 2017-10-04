@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "b08228a350f265c745fccbd6a9b9e2be"
+build_time: [1507125718, 520678000]
+inputs:
+  "/Users/sourcesoft/Documents/SSProjects/JenKinDemo/JenKinDemo/ViewController.swift": [1507122848, 0]
+  "/Users/sourcesoft/Documents/SSProjects/JenKinDemo/JenKinDemo/AppDelegate.swift": [1507122848, 0]
