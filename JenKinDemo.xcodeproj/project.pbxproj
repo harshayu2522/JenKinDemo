@@ -93,7 +93,7 @@
 				TargetAttributes = {
 					B0FF964B1F8516200061B503 = {
 						CreatedOnToolsVersion = 9.0;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -252,13 +252,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 96X8KV6RC7;
+				DEVELOPMENT_TEAM = 6JEDLWTGT4;
 				INFOPLIST_FILE = JenKinDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ssdevelopment.-";
+				PRODUCT_BUNDLE_IDENTIFIER = com.soucesoft.AfroChat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "e2b043b9-ebcc-44f2-83f5-7bcefc4092ef";
+				PROVISIONING_PROFILE_SPECIFIER = afroChat_dev12;
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -268,13 +271,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 96X8KV6RC7;
+				DEVELOPMENT_TEAM = 6JEDLWTGT4;
 				INFOPLIST_FILE = JenKinDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ssdevelopment.-";
+				PRODUCT_BUNDLE_IDENTIFIER = com.soucesoft.AfroChat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "e2b043b9-ebcc-44f2-83f5-7bcefc4092ef";
+				PROVISIONING_PROFILE_SPECIFIER = afroChat_dev12;
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
