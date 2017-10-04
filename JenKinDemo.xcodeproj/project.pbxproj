@@ -255,11 +255,11 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: ABHISHEK CHANDAN (52S6MPKR7M)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6JEDLWTGT4;
+				DEVELOPMENT_TEAM = 96X8KV6RC7;
 				INFOPLIST_FILE = JenKinDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.soucesoft.AfroChat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ssdevelopment.kop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
@@ -274,11 +274,11 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: ABHISHEK CHANDAN (52S6MPKR7M)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6JEDLWTGT4;
+				DEVELOPMENT_TEAM = 96X8KV6RC7;
 				INFOPLIST_FILE = JenKinDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.soucesoft.AfroChat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ssdevelopment.kop;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
