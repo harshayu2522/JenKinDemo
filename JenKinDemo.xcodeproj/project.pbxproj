@@ -7,20 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B084EE761F851FCC00763584 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B084EE751F851FCC00763584 /* Main.storyboard */; };
 		B0FF96501F8516200061B503 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FF964F1F8516200061B503 /* AppDelegate.swift */; };
 		B0FF96521F8516200061B503 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FF96511F8516200061B503 /* ViewController.swift */; };
-		B0FF96551F8516200061B503 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0FF96531F8516200061B503 /* Main.storyboard */; };
 		B0FF96571F8516200061B503 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0FF96561F8516200061B503 /* Assets.xcassets */; };
-		B0FF965A1F8516200061B503 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0FF96581F8516200061B503 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B084EE751F851FCC00763584 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		B0FF964C1F8516200061B503 /* JenKinDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JenKinDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0FF964F1F8516200061B503 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0FF96511F8516200061B503 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		B0FF96541F8516200061B503 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B0FF96561F8516200061B503 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		B0FF96591F8516200061B503 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B0FF965B1F8516200061B503 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -56,9 +54,8 @@
 			children = (
 				B0FF964F1F8516200061B503 /* AppDelegate.swift */,
 				B0FF96511F8516200061B503 /* ViewController.swift */,
-				B0FF96531F8516200061B503 /* Main.storyboard */,
+				B084EE751F851FCC00763584 /* Main.storyboard */,
 				B0FF96561F8516200061B503 /* Assets.xcassets */,
-				B0FF96581F8516200061B503 /* LaunchScreen.storyboard */,
 				B0FF965B1F8516200061B503 /* Info.plist */,
 			);
 			path = JenKinDemo;
@@ -123,9 +120,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B0FF965A1F8516200061B503 /* LaunchScreen.storyboard in Resources */,
+				B084EE761F851FCC00763584 /* Main.storyboard in Resources */,
 				B0FF96571F8516200061B503 /* Assets.xcassets in Resources */,
-				B0FF96551F8516200061B503 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,25 +138,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		B0FF96531F8516200061B503 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B0FF96541F8516200061B503 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		B0FF96581F8516200061B503 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B0FF96591F8516200061B503 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		B0FF965C1F8516200061B503 /* Debug */ = {
@@ -276,10 +253,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = JenKinDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SInfotech.JenKinDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ss.jenkindemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -290,10 +268,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = JenKinDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = SInfotech.JenKinDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ss.jenkindemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
