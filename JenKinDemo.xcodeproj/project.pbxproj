@@ -255,7 +255,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: ABHISHEK CHANDAN (52S6MPKR7M)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ABHISHEK CHANDAN (52S6MPKR7M)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 96X8KV6RC7;
+				DEVELOPMENT_TEAM = 6JEDLWTGT4;
 				INFOPLIST_FILE = JenKinDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -275,7 +275,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: ABHISHEK CHANDAN (52S6MPKR7M)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ABHISHEK CHANDAN (52S6MPKR7M)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 96X8KV6RC7;
+				DEVELOPMENT_TEAM = 6JEDLWTGT4;
 				INFOPLIST_FILE = JenKinDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
