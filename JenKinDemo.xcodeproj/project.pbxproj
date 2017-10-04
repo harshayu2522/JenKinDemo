@@ -261,7 +261,6 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.soucesoft.AfroChat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "e2b043b9-ebcc-44f2-83f5-7bcefc4092ef";
 				PROVISIONING_PROFILE_SPECIFIER = afroChat_dev12;
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -281,7 +280,6 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.soucesoft.AfroChat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "e2b043b9-ebcc-44f2-83f5-7bcefc4092ef";
 				PROVISIONING_PROFILE_SPECIFIER = afroChat_dev12;
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
