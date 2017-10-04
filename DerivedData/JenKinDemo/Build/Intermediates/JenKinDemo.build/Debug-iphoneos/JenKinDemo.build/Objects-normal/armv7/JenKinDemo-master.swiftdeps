@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "d68e077aa4da485f7cfb32243a0a8e2f"
+build_time: [560442642, 799770000]
+inputs:
+  "/Users/sourcesoft/Documents/SSProjects/JenKinDemo/JenKinDemo/ViewController.swift": [560438048, 0]
+  "/Users/sourcesoft/Documents/SSProjects/JenKinDemo/JenKinDemo/AppDelegate.swift": [560438048, 0]
