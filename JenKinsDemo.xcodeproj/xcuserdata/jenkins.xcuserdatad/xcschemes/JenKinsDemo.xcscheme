@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B0FF964B1F8516200061B503"
-               BuildableName = "JenKinDemo.app"
-               BlueprintName = "JenKinDemo"
-               ReferencedContainer = "container:JenKinDemo.xcodeproj">
+               BlueprintIdentifier = "A6D950331F86099700B1F221"
+               BuildableName = "JenKinsDemo.app"
+               BlueprintName = "JenKinsDemo"
+               ReferencedContainer = "container:JenKinsDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +28,34 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A6D9504C1F86099700B1F221"
+               BuildableName = "JenKinsDemoTests.xctest"
+               BlueprintName = "JenKinsDemoTests"
+               ReferencedContainer = "container:JenKinsDemo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A6D950571F86099700B1F221"
+               BuildableName = "JenKinsDemoUITests.xctest"
+               BlueprintName = "JenKinsDemoUITests"
+               ReferencedContainer = "container:JenKinsDemo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B0FF964B1F8516200061B503"
-            BuildableName = "JenKinDemo.app"
-            BlueprintName = "JenKinDemo"
-            ReferencedContainer = "container:JenKinDemo.xcodeproj">
+            BlueprintIdentifier = "A6D950331F86099700B1F221"
+            BuildableName = "JenKinsDemo.app"
+            BlueprintName = "JenKinsDemo"
+            ReferencedContainer = "container:JenKinsDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,17 +75,17 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B0FF964B1F8516200061B503"
-            BuildableName = "JenKinDemo.app"
-            BlueprintName = "JenKinDemo"
-            ReferencedContainer = "container:JenKinDemo.xcodeproj">
+            BlueprintIdentifier = "A6D950331F86099700B1F221"
+            BuildableName = "JenKinsDemo.app"
+            BlueprintName = "JenKinsDemo"
+            ReferencedContainer = "container:JenKinsDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
@@ -74,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B0FF964B1F8516200061B503"
-            BuildableName = "JenKinDemo.app"
-            BlueprintName = "JenKinDemo"
-            ReferencedContainer = "container:JenKinDemo.xcodeproj">
+            BlueprintIdentifier = "A6D950331F86099700B1F221"
+            BuildableName = "JenKinsDemo.app"
+            BlueprintName = "JenKinsDemo"
+            ReferencedContainer = "container:JenKinsDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
